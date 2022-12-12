@@ -70,11 +70,11 @@
               <div class="col-md-4 fot-soc">
                   <h4>SOCIAL MEDIA</h4>
                   <ul>
-                      <li><a target="_blank" href="#"><img src="/images/social/1.png" alt=""></a></li>
-                      <li><a target="_blank" href="#"><img src="/images/social/2.png" alt=""></a></li>
-                      <li><a target="_blank" href="#"><img src="/images/social/3.png" alt=""></a></li>
-                      <li><a target="_blank" href="#"><img src="/images/social/4.png" alt=""></a></li>
-                      <li><a target="_blank" href="#"><img src="/images/social/5.png" alt=""></a></li>
+                      <li><a target="_blank" href="#"><img src="/src/assets/images/social/1.png" alt=""></a></li>
+                      <li><a target="_blank" href="#"><img src="/src/assets/images/social/2.png" alt=""></a></li>
+                      <li><a target="_blank" href="#"><img src="/src/assets/images/social/3.png" alt=""></a></li>
+                      <li><a target="_blank" href="#"><img src="/src/assets/images/social/4.png" alt=""></a></li>
+                      <li><a target="_blank" href="#"><img src="/src/assets/images/social/5.png" alt=""></a></li>
                   </ul>
               </div>
           </div>

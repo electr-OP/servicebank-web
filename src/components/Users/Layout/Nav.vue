@@ -6,9 +6,9 @@
             <div class="hom-nav  db-open ">
                 <!--MOBILE MENU-->
                 <a href="/" class="top-log">
-                        <!-- <img src="/images/home/16077bizbook-white.png" style="width: 192px; height: auto;" alt="" class="ic-logo"> -->
+                        <!-- <img src="/src/assets/images/home/16077bizbook-white.png" style="width: 192px; height: auto;" alt="" class="ic-logo"> -->
                     <h3 class="ic -logo mt-2 text-white">SERVICE <span class="text-primary">BANK</span></h3>
-                    <!-- <img src="/images/home/16077bizbook-white.png" style="width: 192px; height: auto;" alt="" class="ic-logo"> -->
+                    <!-- <img src="/src/assets/images/home/16077bizbook-white.png" style="width: 192px; height: auto;" alt="" class="ic-logo"> -->
                 </a>
                 <div class="menu">
                     <h4>Explore</h4>
@@ -20,9 +20,9 @@
                             <i class="material-icons clopme">close</i>
                             <div class="pmenu-spri">
                                 <ul>
-                                    <li><a href="/" class="act"><img src="/images/icon/shop.png">Home </a></li>
-                                    <li><a href="/experts.php" class="act"><img src="/images/icon/expert.png">Service Experts </a></li>
-                                    <li><a href="/all-profiles.php" class="act"><img src="/images/icon/employee.png">Service providers </a></li>
+                                    <li><a href="/" class="act"><img src="/src/assets/images/icon/shop.png">Home </a></li>
+                                    <li><a href="/experts.php" class="act"><img src="/src/assets/images/icon/expert.png">Service Experts </a></li>
+                                    <li><a href="/all-profiles.php" class="act"><img src="/src/assets/images/icon/employee.png">Service providers </a></li>
                                 </ul>
                             </div>
                             <div class="pmenu-cat">
@@ -105,13 +105,13 @@
                         </div> 
                         <ul>
                             <li>
-                                <a href="/users/dashboard.php" class="db-lact"><img src="/images/icon/dbl1.png" alt=""> My Dashboard</a>
+                                <a href="/users/dashboard.php" class="db-lact"><img src="/src/assets/images/icon/dbl1.png" alt=""> My Dashboard</a>
                             </li>
                             <li>
-                                <a href="/users/setting.php" class=""><img src="/images/icon/dbl210.png" alt="">Setting</a>
+                                <a href="/users/setting.php" class=""><img src="/src/assets/images/icon/dbl210.png" alt="">Setting</a>
                             </li>
                             <li>
-                                <a href="/logout.php"><img src="/images/icon/dbl12.png" alt="">Log Out</a>
+                                <a href="/logout.php"><img src="/src/assets/images/icon/dbl12.png" alt="">Log Out</a>
                             </li>
                         </ul>
                     </div>
@@ -129,37 +129,37 @@
                         <div class="mv-pro-menu ud-lhs-s2">
                             <ul>
                                 <li>
-                                    <a href="/users/dashboard.php" class="db-lact"><img src="/images/icon/dbl1.png" alt=""> My Dashboard</a>
+                                    <a href="/users/dashboard.php" class="db-lact"><img src="/src/assets/images/icon/dbl1.png" alt=""> My Dashboard</a>
                                 </li>
                                 <li>
-                                    <a href="/logout.php"><img src="/images/icon/dbl12.png" alt="">Log Out</a>
+                                    <a href="/logout.php"><img src="/src/assets/images/icon/dbl12.png" alt="">Log Out</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="mv-cate">
                             <ul>
                                 <li>
-                                    <a href="/users/dashboard.php" class="db-lact"><img src="images/icon/dbl1.png" alt=""> My Dashboard</a>
+                                    <a href="/users/dashboard.php" class="db-lact"><img src="/src/assets/images/icon/dbl1.png" alt=""> My Dashboard</a>
                                 </li>
                                 <li>
                                     <h4>Jobs</h4>
-                                    <a href="/enquiry.php" class=""><img src="images/icon/tick.png" alt="">Enquirys</a>
+                                    <a href="/enquiry.php" class=""><img src="/src/assets/images/icon/tick.png" alt="">Enquirys</a>
                                 </li>
                                 <li>
-                                    <a href="/listings.php" class=""><img src="images/icon/expert.png" alt="">Job Listings</a>
+                                    <a href="/listings.php" class=""><img src="/src/assets/images/icon/expert.png" alt="">Job Listings</a>
                                 </li>
                                 <li>
-                                    <a href="/job_profile.php" class=""><img src="images/icon/expert.png" alt="">Profile</a>
+                                    <a href="/job_profile.php" class=""><img src="/src/assets/images/icon/expert.png" alt="">Profile</a>
                                 </li>
                                 <li>
                                     <h4>Account</h4>
-                                    <a href="profile.php" class=""><img src="images/icon/dbl9.png" alt="">Profile</a>
+                                    <a href="profile.php" class=""><img src="/src/assets/images/icon/dbl9.png" alt="">Profile</a>
                                 </li>
                                 <li>
-                                    <a href="notifications.php" class=""><img src="images/icon/dbl19.png" alt="">Notifications</a>
+                                    <a href="notifications.php" class=""><img src="/src/assets/images/icon/dbl19.png" alt="">Notifications</a>
                                 </li>
                                 <li>
-                                    <a href="/" class=""><img src="images/icon/dbl19.png" alt="">Logout</a>
+                                    <a href="/" class=""><img src="/src/assets/images/icon/dbl19.png" alt="">Logout</a>
                                 </li>
                             </ul>
                             <h4>All Categories</h4>

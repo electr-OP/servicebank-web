@@ -273,10 +273,10 @@
 <!-- START -->
 <div class="fqui-menu">
     <ul>
-        <li><a href="/"><img src="images/icon/home.png">Home</a></li>
-        <li><span class="mob-sear"><img src="images/icon/search1.png">Search</span></li>
-        <li><a href="/experts.php"><img src="images/icon/expert.png">Service Experts</a></li>
-        <li><a href="/all-profiles.php"><img src="images/icon/employee.png">Service Providers</a></li> 
+        <li><a href="/"><img src="/src/assets/images/icon/home.png">Home</a></li>
+        <li><span class="mob-sear"><img src="/src/assets/images/icon/search1.png">Search</span></li>
+        <li><a href="/experts.php"><img src="/src/assets/images/icon/expert.png">Service Experts</a></li>
+        <li><a href="/all-profiles.php"><img src="/src/assets/images/icon/employee.png">Service Providers</a></li> 
     </ul>
 </div>
 <!-- END -->
@@ -297,6 +297,8 @@ import { RouterLink } from 'vue-router';
             category: '',
             city: '',
             status: '',
+            verified: '',
+            rating: '',
             professions:[],
             locations: [],
             selected_artisan: '',

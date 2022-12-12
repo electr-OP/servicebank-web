@@ -19,7 +19,7 @@
                         <li>
                             <div class="sh-all-scat-box">
                                 <div class="lhs">
-                                    <img src="images/services/69336spa1.jpg" alt="">
+                                    <img src="/src/assets/images/services/69336spa1.jpg" alt="">
                                 </div>
                                 <div class="rhs">  
                                     <h4>
@@ -67,7 +67,7 @@
                         <li>
                             <div class="sh-all-scat-box">
                                 <div class="lhs">
-                                    <img src="images/services/48466ser4.jpg" alt="">
+                                    <img src="/src/assets/images/services/48466ser4.jpg" alt="">
                                 </div>
                                 <div class="rhs">
                                     <h4>
@@ -94,10 +94,10 @@
 <!-- START -->
 <div class="fqui-menu">
     <ul>
-        <li><a href="/"><img src="images/icon/home.png">Home</a></li>
-        <li><span class="mob-sear"><img src="images/icon/search1.png">Search</span></li>
-        <li><a href="/experts.php"><img src="images/icon/expert.png">Service Experts</a></li>
-        <li><a href="/all-profiles.php"><img src="jobs/images/icon/employee.png">Service Providers</a></li> 
+        <li><a href="/"><img src="/src/assets/images/icon/home.png">Home</a></li>
+        <li><span class="mob-sear"><img src="/src/assets/images/icon/search1.png">Search</span></li>
+        <li><a href="/experts.php"><img src="/src/assets/images/icon/expert.png">Service Experts</a></li>
+        <li><a href="/all-profiles.php"><img src="/src/assets/images/icon/employee.png">Service Providers</a></li> 
     </ul>
 </div>
 <!-- END -->

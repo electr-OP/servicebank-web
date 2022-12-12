@@ -39,7 +39,7 @@
 <!-- END -->
 <section>
     <div class="list-bann">
-        <img src="/images/listing-ban/1.jpg" alt="">
+        <img src="/src/assets/images/listing-ban/1.jpg" alt="">
     </div>
 </section>
 
@@ -238,14 +238,14 @@
                             <div class="row pg-list-ser">
                                 <ul>
                                     <li class="col-md-3">
-                                        <div class="pg-list-ser-p1"><img src="/images/services/3286pexels-nikita-khandelwal-819805.jpg" alt="">
+                                        <div class="pg-list-ser-p1"><img src="/src/assets/images/services/3286pexels-nikita-khandelwal-819805.jpg" alt="">
                                         </div>
                                         <div class="pg-list-ser-p2">
                                             <h4>sfs</h4>
                                         </div>
                                     </li>
                                     <li class="col-md-3">
-                                        <div class="pg-list-ser-p1"><img src="/images/services/3286pexels-nikita-khandelwal-819805.jpg" alt="">
+                                        <div class="pg-list-ser-p1"><img src="/src/assets/images/services/3286pexels-nikita-khandelwal-819805.jpg" alt="">
                                         </div>
                                         <div class="pg-list-ser-p2">
                                             <h4>sfsf</h4>
@@ -269,7 +269,7 @@
                         </div>
                         <div class="list-pg-inn-sp">
                             <div class="home-list-pop"> 
-                                <div class="col-md-3"><img src="/images/services/38752pexels-photo-331788.jpeg" alt=""></div>
+                                <div class="col-md-3"><img src="/src/assets/images/services/38752pexels-photo-331788.jpeg" alt=""></div>
                            
                                 <div class="col-md-9 home-list-pop-desc inn-list-pop-desc list-room-deta"><a href="#!">
                                         <h3>adad</h3>
@@ -307,7 +307,7 @@
 
                     <!--ADS-->
                     <!-- <div class="ban-ati-com ads-det-page">
-                        <a href="https://themeforest.net/item/bizbook-directory-listings-template/25391222"><span>Ad</span><img src="/images/ads/4414ads2.png"></a>
+                        <a href="https://themeforest.net/item/bizbook-directory-listings-template/25391222"><span>Ad</span><img src="/src/assets/images/ads/4414ads2.png"></a>
                     </div> -->
                     <!--ADS-->
 
@@ -384,7 +384,7 @@
                     </div> 
                     <!--ADS-->
                     <div class="ban-ati-com ads-det-page">
-                        <!-- <a href=""><span>Ad</span><img src="/images/ads/59040boat-728x90.png"></a> -->
+                        <!-- <a href=""><span>Ad</span><img src="/src/assets/ads/59040boat-728x90.png"></a> -->
                     </div>
                     <!--ADS-->
                 </div>

@@ -5,7 +5,7 @@
             <div class="hom-nav ">
                 <!--MOBILE MENU-->
                 <RouterLink :to="{name:'home'}" class="top-log">
-                        <!-- <img src="/images/home/16077bizbook-white.png" style="width: 192px; height: auto;" alt="" class="ic-logo"> -->
+                        <!-- <img src="/src/assets/images/home/16077bizbook-white.png" style="width: 192px; height: auto;" alt="" class="ic-logo"> -->
                     <h3 class="ic -logo mt-2 text-white">SERVICE <span class="text-primary">BANK</span></h3>
                 </RouterLink>
                 <div class="menu">
@@ -17,9 +17,9 @@
                             <i class="material-icons clopme">close</i>
                             <div class="pmenu-spri">
                                 <ul>
-                                    <li><a href="/" class="act"><img src="/images/icon/shop.png" alt="shop">Home </a></li>
-                                    <li><a href="" class="act"><img src="/images/icon/expert.png" alt="expert">Service Experts </a></li>
-                                    <li><a href="" class="act"><img src="/images/icon/employee.png" alt="employee">Service providers </a></li>
+                                    <li><a href="/" class="act"><img src="/src/assets/images/icon/shop.png" alt="shop">Home </a></li>
+                                    <li><a href="" class="act"><img src="/src/assets/images/icon/expert.png" alt="expert">Service Experts </a></li>
+                                    <li><a href="" class="act"><img src="/src/assets/images/icon/employee.png" alt="employee">Service providers </a></li>
                                 </ul>
                             </div>
                             <div class="pmenu-cat">
@@ -80,21 +80,21 @@
                         <!-- <li>
                             <a href="/pricing-details">Add business</a>
                         </li> -->
-                        <li>
+                        <li v-if="isAuthenticated">
                             <RouterLink :to="{name: 'dashboard'}">
                                 Dashboard
                             </RouterLink>
                         </li>
                     <!-- <?php } else { ?> -->
-                        <li>
+                        <li v-if="!isAuthenticated">
                             <RouterLink :to="{name: 'login'}">Sign in</RouterLink>
                         </li>
-                        <li>
+                        <li v-if="!isAuthenticated">
                             <RouterLink :to="{name : 'register'}">
                                 Get Started
                             </RouterLink>
                         </li>
-                        <li>
+                        <li v-if="isAuthenticated">
 						<strong> <RouterLink :to="{name:'login'}" href="" @click="logout" style="color: #ff6600; "> <i class="fa fa-power-off" aria-hidden="true"></i> Log Out </RouterLink></strong>
 					    </li>
                     <!-- <?php } ?> -->
@@ -154,6 +154,11 @@
     import {RouterLink, RouterView} from 'vue-router'
     export default {
         name: "Nav",
+        data () {
+            return {
+                isAuthenticated: JSON.parse(window.localStorage.getItem('isAuthenticated')),
+            }
+        },
         methods: {
             logout(){
 			    
@@ -161,6 +166,9 @@
 			    window.location.href="/login"
                 
 		},
+        mounted () {
+            console.log(window.localStorage.getItem('isAuthenticated'))
+        }
         }
     }
 </script>

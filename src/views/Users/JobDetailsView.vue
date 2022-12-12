@@ -48,7 +48,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="pg-list-1-pro">
-                    <img src="/images/user/user4.jpg" alt="">
+                    <img src="/src/assets/images/user/user4.jpg" alt="">
                     <span class="stat"><i class="material-icons">verified_user</i></span>
                 </div>
                 <div class="pg-list-1-left">
@@ -120,7 +120,7 @@
                             <div class="row pg-list-ser">
                                 <ul>
                                     <li v-for="prof in artisanDetails.profession" class="col-md-3">
-                                        <div class="pg-list-ser-p1"><img src="/images/services/3286pexels-nikita-khandelwal-819805.jpg" alt="">
+                                        <div class="pg-list-ser-p1"><img src="/src/assets/images/services/3286pexels-nikita-khandelwal-819805.jpg" alt="">
                                         </div>
                                         <div class="pg-list-ser-p2">
                                             <h4>{{prof}}</h4>
@@ -144,7 +144,7 @@
                         <div class="list-pg-inn-sp">
                             <div class="home-list-pop"> -->
                                 <!--LISTINGS IMAGE-->
-                                <!-- <div class="col-md-3"><img src="/images/services/38752pexels-photo-331788.jpeg" alt=""></div> -->
+                                <!-- <div class="col-md-3"><img src="/src/assets/images/services/38752pexels-photo-331788.jpeg" alt=""></div> -->
                                 <!--LISTINGS: CONTENT-->
                                 <!-- <div class="col-md-9 home-list-pop-desc inn-list-pop-desc list-room-deta"><a href="#!"> -->
                                         <!-- <h3>adad</h3>
@@ -185,7 +185,7 @@
 
                     <!--ADS-->
                     <div class="ban-ati-com ads-det-page">
-                        <a href="https://themeforest.net/item/bizbook-directory-listings-template/25391222"><span>Ad</span><img src="/images/ads/4414ads2.png"></a>
+                        <a href="https://themeforest.net/item/bizbook-directory-listings-template/25391222"><span>Ad</span><img src="/src/assets/images/ads/4414ads2.png"></a>
                     </div>
                     <!--ADS-->
 
@@ -196,7 +196,7 @@
                             <li>
                                 <div class="land-pack-grid">
                                     <div class="land-pack-grid-img">
-                                        <img src="/images/listings/hot4.jpg" alt="">
+                                        <img src="/src/assets/images/listings/hot4.jpg" alt="">
                                     </div>
                                     <div class="land-pack-grid-text">
                                         <h4>test</h4>
@@ -210,7 +210,7 @@
                             <li>
                                 <div class="land-pack-grid">
                                     <div class="land-pack-grid-img">
-                                        <img src="/images/listings/hot4.jpg" alt="">
+                                        <img src="/src/assets/images/listings/hot4.jpg" alt="">
                                     </div>
                                     <div class="land-pack-grid-text">
                                         <h4>TEST</h4>
@@ -224,7 +224,7 @@
                             <li>
                                 <div class="land-pack-grid">
                                     <div class="land-pack-grid-img">
-                                        <img src="/images/listings/hot4.jpg" alt="">
+                                        <img src="/src/assets/images/listings/hot4.jpg" alt="">
                                     </div>
                                     <div class="land-pack-grid-text">
                                         <h4>Teste da minha lojinha</h4>
@@ -285,14 +285,14 @@
                             <div class="s1">
                                 <div>
                                     <span class="by">Business profile</span>
-                                    <img class="proi" src="/images/user/user4.jpg" alt="">
+                                    <img class="proi" src="/src/assets/images/user/user4.jpg" alt="">
                                     <h4>Rockit Design</h4>
                                     <p>28800 Orchard Lake Road, Suite 180 Farmington Hills, U.S.A.</p>
                                     <ul>
-                                        <li><a href="https://www.facebook.com/rn53themes" target="_blank"><img src="/images/social/3.png"></a></li>
-                                        <li><a href="https://twitter.com/Rn53_themes" target="_blank"><img src="/images/social/2.png"></a></li>
-                                        <li><a href="https://www.youtube.com/channel/UC3wN3O2GXTt7ZZniIoMZumg/videos?view=0&amp;sort=dd&amp;shelf_id=0&amp;view_as=subscriber" target="_blank"><img src="/images/social/5.png"></a></li>
-                                        <li><a href="+01 5426 24400" target="_blank"><img src="/images/social/6.png"></a></li>
+                                        <li><a href="https://www.facebook.com/rn53themes" target="_blank"><img src="/src/assets/images/social/3.png"></a></li>
+                                        <li><a href="https://twitter.com/Rn53_themes" target="_blank"><img src="/src/assets/images/social/2.png"></a></li>
+                                        <li><a href="https://www.youtube.com/channel/UC3wN3O2GXTt7ZZniIoMZumg/videos?view=0&amp;sort=dd&amp;shelf_id=0&amp;view_as=subscriber" target="_blank"><img src="/src/assets/images/social/5.png"></a></li>
+                                        <li><a href="+01 5426 24400" target="_blank"><img src="/src/assets/images/social/6.png"></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -306,7 +306,7 @@
 
                     <!--ADS-->
                     <div class="ban-ati-com ads-det-page">
-                        <a href=""><span>Ad</span><img src="/images/ads/59040boat-728x90.png"></a>
+                        <a href=""><span>Ad</span><img src="/src/assets/images/ads/59040boat-728x90.png"></a>
                     </div>
                     <!--ADS-->
                 </div>

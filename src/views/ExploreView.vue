@@ -34,7 +34,7 @@
                 <li>
                     <div class="smbox">
                         <div class="ser0">
-                            <img src="images/products/24905samsung-6-kg-5-star-inverter.jpeg" alt="">
+                            <img src="/src/assets/images/products/24905samsung-6-kg-5-star-inverter.jpeg" alt="">
                         </div>
                         <h6 class="ser 1 mt-3">
                             <a href="details.php">
@@ -61,10 +61,10 @@
 <!-- START -->
 <div class="fqui-menu">
     <ul>
-        <li><a href="/"><img src="images/icon/home.png">Home</a></li>
-        <li><span class="mob-sear"><img src="images/icon/search1.png">Search</span></li>
-        <li><a href="/experts.php"><img src="images/icon/expert.png">Service Experts</a></li>
-        <li><a href="/all-profiles.php"><img src="jobs/images/icon/employee.png">Service Providers</a></li> 
+        <li><a href="/"><img src="/src/assets/images/icon/home.png">Home</a></li>
+        <li><span class="mob-sear"><img src="/src/assets/images/icon/search1.png">Search</span></li>
+        <li><a href="/experts.php"><img src="/src/assets/images/icon/expert.png">Service Experts</a></li>
+        <li><a href="/all-profiles.php"><img src="/src/assets/images/icon/employee.png">Service Providers</a></li> 
     </ul>
 </div>
 <!-- END -->

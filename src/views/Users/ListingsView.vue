@@ -38,7 +38,7 @@
                                 <tbody>
                                     <tr>
                                         <td>1</td>
-                                        <td><img src="/images/listings/hot4.jpg">adad <span>11, Jul 2022</span></td>
+                                        <td><img src="/src/assets/images/listings/hot4.jpg">adad <span>11, Jul 2022</span></td>
                                         <td><span class="db-list-rat">0</span></td>
                                         <td><span class="db-list-rat">8</span></td>
                                         <td><span class="db-list-ststus">Active</span></td>
