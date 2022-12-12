@@ -168,11 +168,11 @@
                     <div class="job-ser-cnt">Showing {{artisansResult.length}} Experts</div>
                     <div class="job-list">
                         <ul>
-                                    <li v-for="profile in artisansResult">
+                                    <li v-for="profile in artisansResult" :key="profile">
 
                                         <div class="job-box">
                                             <div class="job-box-img">
-                                                <img src={{profile.logo}} alt="">
+                                                <img :src=profile.logo alt="#">
                                             </div>
                                             <!-- <div class="ser-exp-ave" title="User currently available">
                                                     <span class="ser-avail-yes"></span>
