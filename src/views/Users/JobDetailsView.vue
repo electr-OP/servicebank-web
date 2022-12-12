@@ -196,7 +196,7 @@
                             <li>
                                 <div class="land-pack-grid">
                                     <div class="land-pack-grid-img">
-                                        <img src="/src/assets/images/listings/hot4.jpg" alt="">
+                                        <img src="#" alt="">
                                     </div>
                                     <div class="land-pack-grid-text">
                                         <h4>test</h4>
@@ -210,7 +210,7 @@
                             <li>
                                 <div class="land-pack-grid">
                                     <div class="land-pack-grid-img">
-                                        <img src="/src/assets/images/listings/hot4.jpg" alt="">
+                                        <img src="#" alt="">
                                     </div>
                                     <div class="land-pack-grid-text">
                                         <h4>TEST</h4>
@@ -224,7 +224,7 @@
                             <li>
                                 <div class="land-pack-grid">
                                     <div class="land-pack-grid-img">
-                                        <img src="/src/assets/images/listings/hot4.jpg" alt="">
+                                        <img src="#" alt="">
                                     </div>
                                     <div class="land-pack-grid-text">
                                         <h4>Teste da minha lojinha</h4>
@@ -306,7 +306,7 @@
 
                     <!--ADS-->
                     <div class="ban-ati-com ads-det-page">
-                        <a href=""><span>Ad</span><img src="/src/assets/images/ads/59040boat-728x90.png"></a>
+                        <a href=""><span>Ad</span><img src="#"></a>
                     </div>
                     <!--ADS-->
                 </div>
