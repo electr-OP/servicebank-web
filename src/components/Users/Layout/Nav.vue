@@ -5,7 +5,7 @@
         <div class="row">
             <div class="hom-nav  db-open ">
                 <!--MOBILE MENU-->
-                <a href="/" class="top-log">
+                <a href="#" class="top-log">
                         <!-- <img src="/src/assets/images/home/16077bizbook-white.png" style="width: 192px; height: auto;" alt="" class="ic-logo"> -->
                     <h3 class="ic -logo mt-2 text-white">SERVICE <span class="text-primary">BANK</span></h3>
                     <!-- <img src="/src/assets/images/home/16077bizbook-white.png" style="width: 192px; height: auto;" alt="" class="ic-logo"> -->

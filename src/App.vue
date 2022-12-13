@@ -1,8 +1,8 @@
 <template>
   <div>
-    <!-- <Nav /> -->
-    <!-- <Index/> -->
-    <!-- <Footer/> -->
+    <!-- <Nav /> 
+    <Index/>
+    <Footer/> -->
     <RouterView />
   </div>
 </template>

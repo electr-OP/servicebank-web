@@ -4,10 +4,10 @@
         <div class="row">
             <div class="hom-nav ">
                 <!--MOBILE MENU-->
-                <RouterLink :to="{name:'home'}" class="top-log">
+                <a href="https://servicebank-landingpage.vercel.app/" class="top-log">
                         <!-- <img src="/src/assets/images/home/16077bizbook-white.png" style="width: 192px; height: auto;" alt="" class="ic-logo"> -->
                     <h3 class="ic -logo mt-2 text-white">SERVICE <span class="text-primary">BANK</span></h3>
-                </RouterLink>
+                </a>
                 <div class="menu">
                     <h4>Explore</h4>
                 </div>
