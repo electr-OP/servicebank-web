@@ -75,17 +75,17 @@
                     </form>
                 </div>
                 <ul class="bl">
-                    <!-- <?php -->
-                    <!-- if (isset($_SESSION["login"])) {  ?> -->
-                        <!-- <li>
-                            <a href="/pricing-details">Add business</a>
-                        </li> -->
+            
                         <li v-if="isAuthenticated">
-                            <RouterLink :to="{name: 'dashboard'}">
-                                Dashboard
+                            <RouterLink :to="{name: 'settings'}">
+                                Settings
                             </RouterLink>
                         </li>
-                    <!-- <?php } else { ?> -->
+                        <li v-if="isAuthenticated">
+                            <RouterLink :to="{name: 'profiles'}">
+                                Search
+                            </RouterLink>
+                        </li>
                         <li v-if="!isAuthenticated">
                             <RouterLink :to="{name: 'login'}">Sign in</RouterLink>
                         </li>
@@ -95,7 +95,7 @@
                             </RouterLink>
                         </li>
                         <li v-if="isAuthenticated">
-						<strong> <RouterLink :to="{name:'login'}" href="" @click="logout" style="color: #ff6600; "> <i class="fa fa-power-off" aria-hidden="true"></i> Log Out </RouterLink></strong>
+						<strong> <RouterLink :to="{name:'login'}" href="" @click="logout" style="color: #ff6600; "> <i class="" aria-hidden="true"></i> Log Out </RouterLink></strong>
 					    </li>
                     <!-- <?php } ?> -->
 

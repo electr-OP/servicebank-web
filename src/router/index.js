@@ -98,6 +98,11 @@ const router = createRouter({
       component: () => import('../views/SearchView.vue')
     },
     {
+      path: '/settings',
+      name: 'settings',
+      component: () => import('../views/SettingView.vue')
+    },
+    {
       path: '/details',
       name: 'details',
       component: () => import('../views/DetailsView.vue')
